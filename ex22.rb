@@ -1,0 +1,1 @@
+ puts "Just take it slow and do not hurt your brain.\n It's best to take 15 minutes at a time with your list\n and then take a break. Giving your brain a rest\n will help you learn faster with less frustration."
