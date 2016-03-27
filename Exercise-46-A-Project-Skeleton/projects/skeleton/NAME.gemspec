@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "NAME"
   spec.version       = '1.0'
   spec.authors       = ["Kemal Colovic"]
-  spec.email         = ["ddeveloperr@ygmail.ccom.com"]
+  spec.email         = ["ddeveloperr@gmail.ccom.com"]
   spec.summary       = %q{Short summary of project: Exercise 46: A Project Skeleton  }
   spec.description   = %q{Longer description of project: Create a Simple Project Skeleton in Ruby}
   spec.homepage      = "https://github.com/ddeveloperr/ruby-thw"
