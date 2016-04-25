@@ -1,6 +1,6 @@
 people = 20
-cats = 30 
-dogs = 15
+cats = 33 
+dogs = 150
 
 
 if people < cats
