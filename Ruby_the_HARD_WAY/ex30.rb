@@ -24,3 +24,5 @@ if people > trucks
 else
   puts "Fine, let's stay home then."
 end
+
+## Practise all 2nd pass
